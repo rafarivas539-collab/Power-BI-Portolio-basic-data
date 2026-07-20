@@ -1,0 +1,46 @@
+AdventureWorks Sales Dashboard | Power BI
+Descripción
+
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Microsoft Power BI utilizando el conjunto de datos AdventureWorks. El objetivo es analizar el rendimiento de las ventas mediante indicadores clave (KPIs), gráficos interactivos y segmentadores para facilitar la toma de decisiones.
+
+Objetivos
+Analizar las ventas totales de la empresa.
+Visualizar la evolución temporal de las ventas.
+Comparar el rendimiento por categoría y país.
+Crear un informe interactivo mediante filtros y visualizaciones.
+Practicar el modelado de datos y la creación de medidas DAX.
+Tecnologías utilizadas
+Microsoft Power BI
+DAX (Data Analysis Expressions)
+Modelo relacional de datos
+AdventureWorks Dataset
+Visualizaciones incluidas
+Tarjetas (Cards) con indicadores clave.
+KPI de ventas.
+Gráfico de líneas para la evolución temporal de las ventas.
+Gráfico de anillos (Donut Chart).
+Gráfico circular.
+Medidor (Gauge).
+Segmentadores (Slicers).
+Medidas DAX implementadas
+Ventas Totales
+Objetivo de Ventas
+Beneficio
+Cantidad de pedidos
+Clientes únicos
+Otras medidas básicas de agregación
+Habilidades desarrolladas
+Modelado de datos.
+Creación de relaciones entre tablas.
+Diseño de dashboards interactivos.
+Creación de medidas DAX.
+Diseño de KPIs.
+Formato y personalización de visualizaciones.
+Análisis de datos mediante Power BI.
+Dataset
+
+El proyecto utiliza el conjunto de datos AdventureWorks, ampliamente empleado para el aprendizaje y la práctica de Business Intelligence y análisis de datos.
+
+Estado del proyecto
+
+Proyecto finalizado con fines de aprendizaje y desarrollo de habilidades en Power BI.
